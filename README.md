@@ -56,3 +56,7 @@ This mini project demonstrated how a basic FIR filter can be modeled and tested 
 
 Future enhancements can include variable coefficients, more taps (higher-order filter), and making the filter programmable via input ports or memory-based coefficient loading.
 
+#OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/ab43a8fb-f4b9-46b6-b070-5c60ff9718a6)
+
